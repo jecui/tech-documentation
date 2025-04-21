@@ -82,6 +82,9 @@ MVC is a way of organizing code in programs so that different parts of the progr
 There are 3 version of this program and all versions **build upon the previous** as required by the class assignments and project description. Feel free to take your time exploring how this program is visually layered and designed in the diagram below, as well as how the numerous classes and interfaces relate.
 
 ![Design Diagram](https://github.com/jecui/tech-documentation/blob/main/Design%20Diagram.png)
+
+_Click on the diagram for better quality if needed._
+
 Every class has been thoroughly tested.
 
 <details> 
