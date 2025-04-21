@@ -1,6 +1,9 @@
 # Stocks Simulator
 
 Welcome to Stocks Simulator! Thank you for taking the time to explore this project. Continue reading below for information on how to run the program, its features, design, and more.
+
+![GUI Screenshot](https://github.com/jecui/tech-documentation/blob/main/GUI%20Screenshot.png)
+
 ## 📑 Table of Contents
 
 1. [Table of Contents](#-table-of-contents)
@@ -19,8 +22,8 @@ Stocks Simulator is a tool designed to simulate real-world stock trading by allo
 By interacting with this program, users can:
 * "Buy" and "sell" stock on any past or current date,
 * Explore how portfolios evolve over time,
-- Experiment with different trading strategies, and
-- Analyze stock performance and trends
+* Experiment with different trading strategies, and
+* Analyze stock performance and trends
 
 Stocks Simulator ensures data persistence and offline access through file management. Portfolios and fetched API data are fully persistent. The application is integrated with the AlphaVantage API to pull real-time stock information and store it for later use, ensuring both interactivity and reliability. 
 
