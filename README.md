@@ -126,7 +126,7 @@ For those with programming experience:
     - Based on Version 1.0 feedback, updated the menu behavior so it reappears automatically after each command or error, making the interface more intuitive and responsive.
 
 ## 📌 Project Status and Objectives
-Please be aware that this project is currently inactive, and no additional updates are planned, as it has fulfilled the following class objectives:
+Please be aware that this project is currently inactive, and no additional updates are planned, as it has fulfilled the following objectives:
 
 - Simulate stock trading by creating, managing, and analyzing personalized stock portfolios.
 - Enable buying and selling of stock on specified dates to model real-world trading scenarios.
